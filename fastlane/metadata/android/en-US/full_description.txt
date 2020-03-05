@@ -1,0 +1,7 @@
+AppLock is a smarter and safer and open source android app locker, which guards your privacy security with pattern lock
+
+This application use "USAGE APP" permission to lock the Apps
+With AppLock, your privacy is well protected with pattern lock, give your phone All-round protection.
+
+AppLock can lock Social Apps,System Apps, SMSes and any other applications you want to lock!
+
