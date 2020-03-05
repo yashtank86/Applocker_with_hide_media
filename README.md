@@ -7,6 +7,10 @@
        enable or disable lock using switch.
        Hide your Media like a photos..
        store your hidden data in form of grid.
+       imagepicker for pick images from gallery.
+       application running in background for better exprience.
+       selected media hide from the gallery.
+       
 
 
 ## Screenshots:
